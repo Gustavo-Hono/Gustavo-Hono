@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Hono
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gustavo Seidi Hono, tenho 19 anos e sou de Bastos interior de São Paulo. Atualmente, estou cursando Big Data no Agronegócio na Fatec Pompéia. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github.
 
