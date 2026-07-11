@@ -1,27 +1,24 @@
 # Gustavo Hono
 
-Backend and AI-focused software developer building practical systems with TypeScript, Python, APIs, databases, automation, and data workflows.
+Software developer focused on backend systems, applied AI workflows, automation, and data-driven products.
 
-I am shaping my work toward international software engineering roles, especially teams building backend platforms, AI-enabled products, developer tools, IoT systems, and data-intensive applications.
+I build practical systems that connect APIs, databases, telemetry, data processing, and user-facing tools. My recent work is concentrated around TypeScript/NestJS, Python/FastAPI, IoT monitoring, diagnostics, and agricultural technology.
 
 ## Positioning
 
 - Backend engineering with TypeScript, NestJS, Node.js, Prisma, PostgreSQL, Docker, and REST APIs
-- Applied AI with Python, FastAPI, RAG pipelines, vector databases, LLM tooling, and agent workflows
-- Product-oriented prototypes that connect real user problems with working software
-- Agricultural technology, IoT monitoring, operational diagnostics, and computer-vision experiments
-- Data science practice with notebooks, feature engineering, model evaluation, and business analysis
+- Python automation for diagnostics, data analysis, computer vision, and operational workflows
+- Applied AI and data workflows using FastAPI, notebooks, model evaluation, and retrieval-oriented systems
+- IoT and monitoring platforms with telemetry checks, reliability rules, and operational diagnostics
+- Product-oriented prototypes that connect real domain problems with working software
 
 ## Portfolio Projects
 
 ### [AI Terminal Optimizer](https://github.com/Gustavo-Hono/otimizador-logs)
 A TypeScript CLI that runs terminal commands and condenses noisy logs into clearer summaries. It demonstrates command-line tooling, parser design, Node.js packaging, and CI/release preparation.
 
-### [PluView Agent](https://github.com/Gustavo-Hono/plueview_agent)
-A Python MCP reliability agent for IoT weather-station diagnostics using Supabase data. It checks delayed readings, telemetry gaps, invalid sensor values, weather events, and operational health signals.
-
-### [SmartB100 Agriculture RAG](https://github.com/Gustavo-Hono/squad-05)
-An agriculture-focused RAG Q&A system using FastAPI, Qdrant, Ollama, Gradio, and PDF knowledge bases. It explores grounded answers, semantic retrieval, and hallucination verification.
+### [PluView Telemetry Diagnostics](https://github.com/Gustavo-Hono/plueview_agent)
+A Python diagnostic tool for checking whether PluView rain-gauge/weather-station telemetry is arriving as expected. It uses rule-based heuristics to detect missing signals, delayed readings, telemetry gaps, invalid values, and simple sensor anomalies.
 
 ### [Cotton Monitoring Prototype](https://github.com/Gustavo-Hono/project_cotton)
 A full-stack agricultural monitoring prototype with frontend, backend, authentication work, database integration, QR-code workflows, and crop-oriented image/process tracking.
@@ -33,12 +30,10 @@ A data-science practice repository focused on notebooks, feature engineering, mo
 
 **Languages:** TypeScript, Python, JavaScript, SQL, Java  
 **Backend:** NestJS, FastAPI, Node.js, Express, Prisma, REST APIs  
-**Data and AI:** Pandas, Jupyter, scikit-learn, RAG, Qdrant, Ollama, LLM agents  
+**Data and AI:** Pandas, Jupyter, scikit-learn, RAG concepts, vector search concepts, LLM tooling  
 **Infrastructure:** Docker, PostgreSQL, Supabase, GitHub Actions  
 **Frontend:** React, Vite, Next.js, Angular, Tailwind CSS
 
-## Career Direction
+## Engineering Style
 
-I am looking for international opportunities where I can contribute to backend systems, AI product infrastructure, developer tooling, automation, IoT platforms, or data applications.
-
-My goal is to work on software that is useful in production: clear APIs, observable behavior, maintainable code, and documentation that helps other engineers move quickly.
+I care about building software that is understandable after the first demo: clear APIs, explicit data flow, practical diagnostics, maintainable structure, and documentation that helps another engineer understand the system quickly.
