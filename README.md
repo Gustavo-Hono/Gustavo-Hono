@@ -1,44 +1,44 @@
 # Gustavo Hono
 
-Software developer focused on backend engineering, applied AI, automation, and data-driven products.
+Backend and AI-focused software developer building practical systems with TypeScript, Python, APIs, databases, automation, and data workflows.
 
-I build practical systems that connect APIs, databases, AI agents, and user-facing tools. My recent work is concentrated around TypeScript/NestJS, Python/FastAPI, IoT monitoring, RAG workflows, and agricultural technology.
+I am shaping my work toward international software engineering roles, especially teams building backend platforms, AI-enabled products, developer tools, IoT systems, and data-intensive applications.
 
-## Focus areas
+## Positioning
 
-- Backend APIs with TypeScript, NestJS, Prisma, PostgreSQL, and Docker
-- Python systems for automation, data analysis, computer vision, and AI agents
-- RAG and LLM workflows using FastAPI, vector databases, and local model tooling
-- IoT and monitoring platforms with diagnostics, reliability checks, and operational data
-- Full-stack prototypes that turn product ideas into usable technical demos
+- Backend engineering with TypeScript, NestJS, Node.js, Prisma, PostgreSQL, Docker, and REST APIs
+- Applied AI with Python, FastAPI, RAG pipelines, vector databases, LLM tooling, and agent workflows
+- Product-oriented prototypes that connect real user problems with working software
+- Agricultural technology, IoT monitoring, operational diagnostics, and computer-vision experiments
+- Data science practice with notebooks, feature engineering, model evaluation, and business analysis
 
-## Selected projects
+## Portfolio Projects
 
 ### [AI Terminal Optimizer](https://github.com/Gustavo-Hono/otimizador-logs)
-TypeScript CLI that executes terminal commands and summarizes noisy logs into actionable output. Built to improve developer workflow around Git, test runners, and package scripts.
+A TypeScript CLI that runs terminal commands and condenses noisy logs into clearer summaries. It demonstrates command-line tooling, parser design, Node.js packaging, and CI/release preparation.
 
 ### [PluView Agent](https://github.com/Gustavo-Hono/plueview_agent)
-Python MCP reliability agent for diagnosing IoT weather stations using Supabase data. It focuses on station health, delayed readings, gaps in telemetry, and short operational diagnostics.
+A Python MCP reliability agent for IoT weather-station diagnostics using Supabase data. It checks delayed readings, telemetry gaps, invalid sensor values, weather events, and operational health signals.
 
 ### [SmartB100 Agriculture RAG](https://github.com/Gustavo-Hono/squad-05)
-Agricultural Q&A system using FastAPI, Qdrant, Ollama, and PDF knowledge bases. The project explores semantic retrieval, answer generation, and verification for technical support workflows.
+An agriculture-focused RAG Q&A system using FastAPI, Qdrant, Ollama, Gradio, and PDF knowledge bases. It explores grounded answers, semantic retrieval, and hallucination verification.
 
 ### [Cotton Monitoring Prototype](https://github.com/Gustavo-Hono/project_cotton)
-Full-stack prototype for cotton crop monitoring, combining frontend, backend, and image-oriented workflows for agricultural operations.
+A full-stack agricultural monitoring prototype with frontend, backend, authentication work, database integration, QR-code workflows, and crop-oriented image/process tracking.
 
 ### [Data Science Challenges](https://github.com/Gustavo-Hono/Gustavo-DS-Challenges)
-Machine learning and data analysis repository focused on practical notebooks, feature engineering, model evaluation, and business-oriented insights.
+A data-science practice repository focused on notebooks, feature engineering, model evaluation, Kaggle-style datasets, and business-oriented analysis.
 
-## Tech stack
+## Core Stack
 
 **Languages:** TypeScript, Python, JavaScript, SQL, Java  
-**Backend:** NestJS, FastAPI, Node.js, Prisma, REST APIs  
+**Backend:** NestJS, FastAPI, Node.js, Express, Prisma, REST APIs  
 **Data and AI:** Pandas, Jupyter, scikit-learn, RAG, Qdrant, Ollama, LLM agents  
 **Infrastructure:** Docker, PostgreSQL, Supabase, GitHub Actions  
 **Frontend:** React, Vite, Next.js, Angular, Tailwind CSS
 
-## What I am looking for
+## Career Direction
 
-I am interested in international software engineering opportunities where I can work on backend systems, AI-enabled products, developer tools, automation, IoT platforms, or data-intensive applications.
+I am looking for international opportunities where I can contribute to backend systems, AI product infrastructure, developer tooling, automation, IoT platforms, or data applications.
 
-I care about building systems that are understandable, useful, and maintainable beyond the first demo.
+My goal is to work on software that is useful in production: clear APIs, observable behavior, maintainable code, and documentation that helps other engineers move quickly.
