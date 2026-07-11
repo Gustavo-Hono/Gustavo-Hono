@@ -17,7 +17,7 @@ I build practical systems that connect APIs, databases, telemetry, data processi
 ### [AI Terminal Optimizer](https://github.com/Gustavo-Hono/otimizador-logs)
 A TypeScript CLI that runs terminal commands and condenses noisy logs into clearer summaries. It demonstrates command-line tooling, parser design, Node.js packaging, and CI/release preparation.
 
-### [PluView Telemetry Diagnostics](https://github.com/Gustavo-Hono/plueview_agent)
+### [PluView Telemetry Diagnostics](https://github.com/Gustavo-Hono/pluview-telemetry-diagnostics)
 A Python diagnostic tool for checking whether PluView rain-gauge/weather-station telemetry is arriving as expected. It uses rule-based heuristics to detect missing signals, delayed readings, telemetry gaps, invalid values, and simple sensor anomalies.
 
 ### [Cotton Monitoring Prototype](https://github.com/Gustavo-Hono/project_cotton)
